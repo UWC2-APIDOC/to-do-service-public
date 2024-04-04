@@ -1,2 +1,5 @@
-# to-do-service-public
-The public version of the to-do-service
+# to-do-service
+
+REST API Sample for shared documentation practice
+
+For the REST API docs, see [The To-Do Service docs](https://uwc2-apidoc.github.io/to-do-service/).
