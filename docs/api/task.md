@@ -11,6 +11,8 @@ Base endpoint:
 
 Contains information about tasks stored for the users of the service.
 
+**This is a new line of text added for assignment 3!**
+
 To have a task in the service, the user must be added to
 the service first.
 
@@ -38,9 +40,6 @@ Sample `task` resource
 | `due_date` | string | The [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format of the date and time the task is due |
 | `warning` | number | The number of minutes relative to the `due_date` to alert the user of the task. This is normally a negative number to alert the user before the `due_date`.|
 | `id` | number | The task's unique record ID |
-| `test` | number | This is my test improvement|
-
-*This is a test change*
 ## READ
 
 * [Get all tasks _(coming soon)_](#resource-properties)
