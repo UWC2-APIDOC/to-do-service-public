@@ -36,8 +36,8 @@ None
     },
     {
         "last_name": "Jones",
-        "first_name": "Jill",
-        "email": "j.jones@example.com",
+        "first_name": "Jillio",
+        "email": "jlo.jones@example.com",
         "id": 2
     }
     ...
