@@ -6,7 +6,6 @@ layout: page
 Base endpoint:
 
 ```shell
-
 {server_url}/tasks
 ```
 
@@ -40,6 +39,7 @@ Sample `task` resource
 | `warning` | number | The number of minutes relative to the `due_date` to alert the user of the task. This is normally a negative number to alert the user before the `due_date`.|
 | `id` | number | The task's unique record ID |
 
+*This is a test change*
 ## READ
 
 * [Get all tasks _(coming soon)_](#resource-properties)
