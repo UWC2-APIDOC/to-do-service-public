@@ -16,7 +16,7 @@ subscribers can post tasks and receive reminders of those tasks.
 
 ## Tutorials
 
-Learn how to do common tasks with in the To-Do service.
+Learn how to do common tasks within the To-Do service.
 
 First, do this tutorial to set up your development system for these tutorials. You only have to do this one time per development system.
 
@@ -43,7 +43,7 @@ The API reference docs refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service.
 
-When run locally for testing, the `{base_url}` is
+When running a local test, the `{base_url}` is
 generally `http://localhost:3000`.
 
 * [user resource](api/user)
