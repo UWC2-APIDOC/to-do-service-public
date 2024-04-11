@@ -15,7 +15,7 @@ Contains information about tasks stored for the users of the service.
 To have a task in the service, the user must be added to
 the service first.
 
-This is a new line.
+This is a new line. 123, ABC.
 
 ## Resource properties
 
