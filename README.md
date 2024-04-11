@@ -1,5 +1,5 @@
 # to-do-service
 
-REST API Sample for shared documentation practice
+This repository includes a REST API sample for shared documentation practice.
 
-For the REST API docs, see [The To-Do Service docs](https://uwc2-apidoc.github.io/to-do-service-public/).
+For the REST API docs, see the [To-Do Service docs](https://uwc2-apidoc.github.io/to-do-service/).
