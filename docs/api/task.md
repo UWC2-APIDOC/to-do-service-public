@@ -10,7 +10,7 @@ Base endpoint:
 {server_url}/tasks
 ```
 
-Contains information about tasks stored for the users of the service.
+This document contains information about tasks stored for the users of the service.
 
 To have a task in the service, the user must be added to
 the service first.
