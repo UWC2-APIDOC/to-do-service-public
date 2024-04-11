@@ -6,7 +6,6 @@ layout: page
 Base endpoint:
 
 ```shell
-
 {server_url}/tasks
 ```
 
@@ -41,6 +40,7 @@ Sample `task` resource
 | `id` | number | The task's unique record ID |
 | `test` | number | This is my test improvement|
 
+*This is a test change*
 ## READ
 
 * [Get all tasks _(coming soon)_](#resource-properties)
