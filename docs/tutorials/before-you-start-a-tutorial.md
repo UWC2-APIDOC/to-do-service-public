@@ -20,7 +20,7 @@ long-term support (LTS version of the operating system).
     * [Git](https://docs.github.com/en/get-started/quickstart/set-up-git) (for the command line)
     * [GitHub Desktop](https://desktop.github.com) (optional)
     * A fork of the [To-Do-Service repo](https://github.com/UWC2-APIDOC/to-do-service)
-    * A current/LTS version of `node.js`
+    * A current/LTS version of [node.js](https://nodejs.org/en/)
     * A current version of [json-server](https://www.npmjs.com/package/json-server)
     * A current copy of the database file. You can get this by syncing your fork.
     * **TIP**: If you're using a fork of the repo, create a working branch in which to do your tutorials. Create a new branch for each tutorial to prevent a mistake in one from affecting your work in another.
