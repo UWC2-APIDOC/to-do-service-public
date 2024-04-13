@@ -28,7 +28,7 @@ long-term support (LTS version of the operating system).
 
 ## Test your development system
 
-To test your development system:.
+To test your development system, follow these steps:
 
 1. Create and checkout a test branch of your fork of the To-Do-service repo. Your `GitHub repo workspace` is the directory that contains your fork of the `to-do-service` repo.
 
