@@ -16,13 +16,13 @@ subscribers can post tasks and receive reminders of those tasks.
 
 ## Tutorials
 
-Learn how to do common tasks with in the To-Do service.
+Learn how to do common tasks within the To-Do service.
 
 First, do this tutorial to set up your development system for these tutorials. You only have to do this one time per development system.
 
 * [Before you start a tutorial](tutorials/before-you-start-a-tutorial.md)
 
-After your system is ready, these tutorials show you how to perform common tasks.
+After your system is ready, these tutorials will show you how to perform common tasks.
 
 * [Enroll a new user](tutorials/enroll-a-new-user)
 * [Add a new task](tutorials/add-a-new-task)
