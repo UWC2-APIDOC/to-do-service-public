@@ -4,7 +4,7 @@ layout: page
 
 # Tutorial: Add a new task
 
-In this tutorial, you learn the operations to call to
+In this tutorial, you will learn the operations needed to
 add a new task for a user of the service.
 
 Expect this tutorial to take about 15 minutes to complete.
