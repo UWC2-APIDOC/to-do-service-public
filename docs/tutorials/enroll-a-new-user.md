@@ -15,16 +15,15 @@ Make sure you've completed the [Before you start a tutorial](before-you-start-a-
 
 ## Enroll a new user
 
-You can enroll a new user in the To-Do service. To do so, `POST` a new [`user`](../api/user) resource containing the user's details.
+You can enroll a new user in the To-Do service by sending a `POST` request that contains a [`user`](../api/user) resource.
 
 To enroll a new user:
 
 1. If your local service is not running, start it.
 
     ```shell
-    # Switch to the service directory
     cd <your-github-workspace>/to-do-service/api
-    # Run the service and monitor its database file for updates
+    # Run the service and monitor its database file
     json-server -w to-do-db-source.json
     ```
 
