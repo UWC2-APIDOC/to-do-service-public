@@ -15,6 +15,8 @@ Contains information about tasks stored for the users of the service.
 To have a task in the service, the user must be added to
 the service first.
 
+For information about the user resource, visit [user](user.md).
+
 ## Resource properties
 
 Sample `task` resource
