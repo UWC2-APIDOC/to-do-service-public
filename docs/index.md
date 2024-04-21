@@ -27,7 +27,7 @@ After your system is ready, these tutorials posted below will show you how to pe
 * [Enroll a new user](tutorials/enroll-a-new-user)
 * [Add a new task](tutorials/add-a-new-task)
 * [Change the due-date of a task _(coming soon)_](#tutorials)
-* [Delete a task _(coming soon)_](#tutorials)
+* [Delete a task _(coming soon)_](tutorials/delete-a-task.md)
 
 ## API reference docs
 
@@ -37,7 +37,7 @@ The API reference docs refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service.
 
-When run locally for testing, the `{base_url}` is
+When running a local test, the `{base_url}` is
 generally `http://localhost:3000`.
 
 * [user resource](api/user)
