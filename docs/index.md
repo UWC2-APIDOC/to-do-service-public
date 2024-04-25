@@ -54,3 +54,4 @@ generally `http://localhost:3000`.
 * [task resource](api/task)
 * [Handling errors](api/handling-errors)
 * [Get tasks by title](tasks-get-tasks-by-title)
+* [Get tasks by property](/docs/api/get-task-ref.md)
