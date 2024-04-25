@@ -30,7 +30,8 @@ To add a new task:
 1. In the Postman app, create a new request with these values:
     * **METHOD**: POST
     * **URL**: `{{base_url}}/tasks`
-    * **Headers**:`Content-Type: application/json`
+    * **Headers**:
+        * `Content-Type: application/json`
     * **Request body**:
         You can change the values of each property as you'd like.
 
