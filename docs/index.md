@@ -32,6 +32,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Delete a task](tutorials/delete-a-task)
 * [Get a user by name](tutorials/get-a-user-by-name)
 * [Get tasks by title](tutorials/get-tasks-by-title)
+* [Get tasks by a property](/docs/tutorials/get-task-by-property.md)
 * [Get a user by email](tutorials/get-a-user-by-email)
 * [Get a user by email](tutorials/get-user-by-email)
 * [Get tasks for a user](tutorials/get-tasks-for-a-user.md)
