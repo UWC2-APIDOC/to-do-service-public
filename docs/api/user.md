@@ -9,7 +9,7 @@ Base endpoint:
 {server_url}/users
 ```
 
-Contains information about the users of the service. 
+Contains information about the users of the service.
 
 To have a task in the service, the user must be added to the service first.
 
@@ -56,3 +56,4 @@ The `user` resource supports these operations.
 ### DELETE
 
 * [Delete users by email](users-delete-user-by-email)
+* [Delete user by ID](users-delete-user-by-id)
