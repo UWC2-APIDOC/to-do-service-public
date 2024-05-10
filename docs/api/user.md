@@ -38,3 +38,4 @@ Sample `user` resource
 
 * [Get all users](users-get-all-users)
 * [Get users by ID](users-get-user-by-id)
+* [Create user](users-create-user)
