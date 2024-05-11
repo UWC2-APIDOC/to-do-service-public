@@ -4,7 +4,9 @@ layout: page
 
 # Create user
 
-Creates a [`user`](user) who is registering with the to-do service. The request body contains the new user details. You must specify the required properties for the user. 
+Creates a [`user`](user) who is registering with the to-do service.
+The request body contains the new user details. 
+You must specify the required properties for the user. 
 
 ## URL
 
@@ -20,7 +22,7 @@ This request does not use any authorization. The endpoint is available to all us
 | Header name | Description | Required | Values |
 | -------------- | ------ | ------------ |------------ |
 | Content-Type | The format of the data to be posted. | Optional | application/json. Default value.  |
-| Accept | The format of the data to be returned. | Optional | application/json. Default value.|
+| Accept | The format of the data to be returned. | Optional | application/json. Default value. |
 
 ## Request body
 
@@ -69,5 +71,3 @@ The following example shows the response. Note that the names should be the same
 | 500 | Internal server Error | Invalid JSON. |
 | ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
 
-For more information about error handling, see  [Error handling codes](link to Mary Frances topic, tbd). 
-@Bob, another class member selected to write a topic about error handling. I intend to link users to it here when I know the filename etc.
