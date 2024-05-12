@@ -10,7 +10,7 @@ Returns an array of  [`task`](task) objects that contain only the tasks specifie
 
 ```shell
 
-{server_url}/task/{title}
+{server_url}/tasks?title=<replace this text with full title>`
 ```
 
 ## Params
@@ -30,16 +30,23 @@ None
 ## Return body
 
 ```js
-[
+  [
     {
         "user_id": 1,
-        "title": "Grocery shopping",
-        "description": "eggs, bacon, gummy bears",
-        "due_date": "2024-02-20T17:00",
-        "warning": "-10",
-        "id": "1"
+        "title": "Piano recital",
+        "description": "Daughter's first concert appearance",
+        "due_date": "2024-04-02T15:00",
+        "warning": "-30",
+        "id": "2"
+    },
+    {
+        "id": "eb1b",
+        "title": "Piano recital",
+        "description": "Piano recital for Jennifer",
+        "due_date": "2024-05-11T15:00",
+        "warning": "-75"
     }
-]
+ ]
 ```
 
 ## Return status
