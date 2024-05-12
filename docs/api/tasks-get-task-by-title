@@ -1,1 +1,51 @@
+---
+layout: page
+---
 
+# Get task by title
+
+Returns an array of  [`task`](task) objects that contain only the tasks specified by the `title` parameter, if they exist.
+
+## URL
+
+```shell
+
+{server_url}/task/{title}
+```
+
+## Params
+
+| Parameter name | Type | Description |
+| -------------- | ------ | ------------ |
+| `title` | string | The record title of the task to return |
+
+## Request headers
+
+None
+
+## Request body
+
+None
+
+## Return body
+
+```js
+[
+    {
+        "user_id": 1,
+        "title": "Grocery shopping",
+        "description": "eggs, bacon, gummy bears",
+        "due_date": "2024-02-20T17:00",
+        "warning": "-10",
+        "id": "1"
+    }
+]
+```
+
+## Return status
+
+| Status value | Return status | Description |
+| ------------- | ----------- | ----------- |
+| 200 | Success | Requested data returned successfully |
+| 404 | Error | Specified task record not found |
+|  ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
