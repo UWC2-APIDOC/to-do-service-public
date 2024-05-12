@@ -28,7 +28,7 @@ To get tasks by their title:
 1. Open the Postman app on your desktop.
 1. Create a new request with these values:
     * **METHOD**: GET
-    * **URL**: `{{base_url}}/tasks?title={{replace this text with full title}}`
+    * **URL**: `{{base_url}}/tasks?title=<replace this text with full title>`
    
    **Example:**
 
