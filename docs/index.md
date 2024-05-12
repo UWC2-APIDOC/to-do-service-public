@@ -30,6 +30,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Change the due-date of a task _(coming soon)_](#tutorials)
 * [Delete a task _(coming soon)_](#tutorials)
 * [Get a user by name](tutorials/get-a-user-by-name)
+* [Searching for users](search-for-a-user.md)
 
 ## API reference docs
 
