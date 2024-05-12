@@ -29,9 +29,12 @@ To get tasks by their title:
 1. Create a new request with these values:
     * **METHOD**: GET
     * **URL**: `{{base_url}}/tasks?title={{replace this text with full title}}`
-   Example:
+   
+   **Example:**
+
    `http://localhost:3000/tasks?title=Piano recital`
-   **Note:** Title values are case sensitive.
+   
+      **Note:** Title values are case sensitive.
 
 
 1. In the Postman app, select **Send** to make the request.
@@ -54,8 +57,9 @@ To get tasks by their title:
         "due_date": "2024-05-11T15:00",
         "warning": "-75"
     }
-  ]
+   ]
     ```
+  
   If there are no titles matching the entered search value, an empty array is returned.
 
 After doing this tutorial in Postman, you might like to repeat it in your favorite programming language. To do this, adapt the values from the tutorial to the properties and arguments that the language uses to make REST API calls.
