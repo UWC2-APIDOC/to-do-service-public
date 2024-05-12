@@ -9,10 +9,9 @@ Base endpoint:
 {server_url}/users
 ```
 
-Contains information about the users of the service.
+Contains information about the users of the service. 
 
-To have a task in the service, the user must be added to
-the service first.
+To have a task in the service, the user must be added to the service first.
 
 ## Resource properties
 
@@ -51,3 +50,9 @@ The `user` resource supports these operations.
 ### UPDATE (PUT/PATCH)
 
 * [Update user by ID](users-update-by-id)
+* [Change user email](users-change-user-email.md)
+* [Change user property](users-change-user-property)
+
+### DELETE
+
+* [Delete users by email](users-delete-user-by-email)
