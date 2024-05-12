@@ -38,6 +38,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Get tasks for a user](tutorials/get-tasks-for-a-user.md)
 * [Update a task](tutorials/update-a-task.md)
 * [Update a task description](tutorials/update-task-description.md)
+* [Update a user property)](tutorials/update-user-property)
 
 ## API reference docs
 
