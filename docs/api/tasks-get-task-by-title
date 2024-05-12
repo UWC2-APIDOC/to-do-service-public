@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Get task by title
+# Get tasks by title
 
 Returns an array of  [`task`](task) objects that contain only the tasks specified by the `title` parameter, if they exist.
 
@@ -12,6 +12,12 @@ Returns an array of  [`task`](task) objects that contain only the tasks specifie
 
 {server_url}/tasks?title=<replace this text with full title>`
 ```
+
+**Example:**
+
+`http://localhost:3000/tasks?title=Piano recital`
+   
+**Note:** Title values are case sensitive.
 
 ## Params
 
