@@ -10,7 +10,7 @@ Returns an array of  [`task`](task) objects that contain only the tasks specifie
 
 ```shell
 
-{server_url}/tasks?title=<replace this text with full title>`
+{server_url}/tasks?title=<replace this text with full title>
 ```
 
 **Example:**
