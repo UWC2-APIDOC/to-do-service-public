@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Tutorial: Add a new task
+# Tutorial: Get tasks by title
 
 In this tutorial, you learn the operations to return a list of tasks with the same title.
 
@@ -18,7 +18,7 @@ Returning a list of tasks from the service requires you to perform a get (`GET`)
 
 To get tasks by their title:
 
-1. Make sure your local service is running, or start it by using this command, if it's not.
+1. Make sure your local service is running. If it is not running, start it by using this command:
 
     ```shell
     cd <your-github-workspace>/to-do-service/api
