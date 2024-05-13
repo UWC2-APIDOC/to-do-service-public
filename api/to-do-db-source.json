@@ -4,25 +4,25 @@
       "last_name": "Smith",
       "first_name": "Ferdinand",
       "email": "f.smith@example.com",
-      "id": 1
+      "id": "1"
     },
     {
       "last_name": "Jones",
       "first_name": "Jill",
       "email": "j.jones@example.com",
-      "id": 2
+      "id": "2"
     },
     {
       "last_name": "Martinez",
       "first_name": "Marty",
       "email": "m.martinez@example.com",
-      "id": 3
+      "id": "3"
     },
     {
       "last_name": "Bailey",
       "first_name": "Bill",
       "email": "b.bailey@example.com",
-      "id": 4
+      "id": "4"
     }
   ],
   "tasks": [
@@ -32,7 +32,7 @@
       "description": "eggs, bacon, gummy bears",
       "due_date": "2024-02-20T17:00",
       "warning": "-10",
-      "id": 1
+      "id": "1"
     },
     {
       "user_id": 1,
@@ -40,7 +40,7 @@
       "description": "Daughter's first concert appearance",
       "due_date": "2024-04-02T15:00",
       "warning": "-30",
-      "id": 2
+      "id": "2"
     },
     {
       "user_id": 2,
@@ -48,7 +48,7 @@
       "description": "5K auto service",
       "due_date": "2024-03-10T09:00",
       "warning": "-60",
-      "id": 3
+      "id": "3"
     },
     {
       "user_id": 3,
@@ -56,7 +56,29 @@
       "description": "Annual vaccinations for poochy",
       "due_date": "2024-05-11T14:00",
       "warning": "-20",
-      "id": 4
+      "id": "4"
+    },
+    {
+      "id": "862f",
+      "query": "\n    query IntrospectionQuery {\n      __schema {\n        \n        queryType { name }\n        mutationType { name }\n        subscriptionType { name }\n        types {\n          ...FullType\n        }\n        directives {\n          name\n          description\n          \n          locations\n          args {\n            ...InputValue\n          }\n        }\n      }\n    }\n\n    fragment FullType on __Type {\n      kind\n      name\n      description\n      \n      fields(includeDeprecated: true) {\n        name\n        description\n        args {\n          ...InputValue\n        }\n        type {\n          ...TypeRef\n        }\n        isDeprecated\n        deprecationReason\n      }\n      inputFields {\n        ...InputValue\n      }\n      interfaces {\n        ...TypeRef\n      }\n      enumValues(includeDeprecated: true) {\n        name\n        description\n        isDeprecated\n        deprecationReason\n      }\n      possibleTypes {\n        ...TypeRef\n      }\n    }\n\n    fragment InputValue on __InputValue {\n      name\n      description\n      type { ...TypeRef }\n      defaultValue\n      \n      \n    }\n\n    fragment TypeRef on __Type {\n      kind\n      name\n      ofType {\n        kind\n        name\n        ofType {\n          kind\n          name\n          ofType {\n            kind\n            name\n            ofType {\n              kind\n              name\n              ofType {\n                kind\n                name\n                ofType {\n                  kind\n                  name\n                  ofType {\n                    kind\n                    name\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  "
+    },
+    {
+      "id": "896f",
+      "query": "\n    query IntrospectionQuery {\n      __schema {\n        \n        queryType { name }\n        mutationType { name }\n        subscriptionType { name }\n        types {\n          ...FullType\n        }\n        directives {\n          name\n          description\n          \n          locations\n          args {\n            ...InputValue\n          }\n        }\n      }\n    }\n\n    fragment FullType on __Type {\n      kind\n      name\n      description\n      \n      fields(includeDeprecated: true) {\n        name\n        description\n        args {\n          ...InputValue\n        }\n        type {\n          ...TypeRef\n        }\n        isDeprecated\n        deprecationReason\n      }\n      inputFields {\n        ...InputValue\n      }\n      interfaces {\n        ...TypeRef\n      }\n      enumValues(includeDeprecated: true) {\n        name\n        description\n        isDeprecated\n        deprecationReason\n      }\n      possibleTypes {\n        ...TypeRef\n      }\n    }\n\n    fragment InputValue on __InputValue {\n      name\n      description\n      type { ...TypeRef }\n      defaultValue\n      \n      \n    }\n\n    fragment TypeRef on __Type {\n      kind\n      name\n      ofType {\n        kind\n        name\n        ofType {\n          kind\n          name\n          ofType {\n            kind\n            name\n            ofType {\n              kind\n              name\n              ofType {\n                kind\n                name\n                ofType {\n                  kind\n                  name\n                  ofType {\n                    kind\n                    name\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  "
+    },
+    {
+      "id": "fe50",
+      "user_id": 2,
+      "title": "Week 7 assignment",
+      "description": "Submit week 7 assignment",
+      "due_date": "2024-05-15T23:59",
+      "warning": "-30"
+    },
+    {
+      "id": "4097",
+      "title": "Week 7 assignment",
+      "description": "Submit week 7 assignment",
+      "due_date": "2024-05-20T23:59"
     }
   ]
 }
