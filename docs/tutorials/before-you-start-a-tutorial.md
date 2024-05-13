@@ -11,7 +11,10 @@ Expect this preparation to take about 20 minutes to complete.
 
 ## Preparing for the tutorials
 
-To complete the tutorials in this section, you need the following:
+The following instructions describe how to prepare for running the tutorials on Windows.
+For information about how to prepare MacOS for the tutorials, visit the [MacOS installation guide](macos-installation).
+
+### To complete the tutorials in this section, you need the following:
 
 * A [GitHub account](https://github.com)
 * A development system (PC, Mac, or Linux) running a current or
