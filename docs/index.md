@@ -45,6 +45,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Update a user property)](tutorials/update-user-property)
 * [Update a user's email](tutorials/update-user-email)
 * [Searching for users](search-for-a-user.md)
+* [How to update a user's name](./tutorials/update_a_users_name.md)
 
 ## API reference docs
 
