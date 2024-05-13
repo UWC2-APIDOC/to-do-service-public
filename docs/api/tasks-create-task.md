@@ -47,7 +47,7 @@ The POST body should look something like this. You can change the values of each
 ```
 
 ## Return body
-The following example shows the response. Note that the task title should be the same as you used in your **Request body** and the response should include the new task's id. The task's id is automatically generated when the user is created.
+The following example shows the response. Note that the task title should be the same as you used in your **Request body** and the response should include the new task's id. The task's id is automatically generated when the task is created.
 
 ```js
 [
