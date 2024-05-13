@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# Add a task
+# Create a task
 
-Adds a new [`task`](task) for a user of the to-do service.
+Creates a new [`task`](task) for a user of the to-do service.
 The request body contains the new task details. 
 You must specify the required properties for the new task. 
 
@@ -19,10 +19,7 @@ You must specify the required properties for the new task.
 
 This request does not use any authorization. The endpoint is available to all users and applications.
 
-| Header name | Description | Required | Values |
-| -------------- | ------ | ------------ |------------ |
-| Content-Type | The format of the data to be posted. | Optional | application/json. Default value.  |
-| Accept | The format of the data to be returned. | Optional | application/json. Default value. |
+|No headers required.
 
 ## Request body
 
