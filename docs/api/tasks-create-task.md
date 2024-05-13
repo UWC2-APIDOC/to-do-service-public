@@ -19,7 +19,7 @@ You must specify the required properties for the new task.
 
 This request does not use any authorization. The endpoint is available to all users and applications.
 
-|No headers required.
+No headers required.
 
 ## Request body
 
