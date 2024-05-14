@@ -29,7 +29,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Add a new task](tutorials/add-a-new-task)
 * [Add a new property to an existing task](tutorials/update-task-new-prop)
 * [Change the due-date of a task _(coming soon)_](#tutorials)
-* [Delete a task _(coming soon)_](#tutorials)
+* [Delete a task](tutorials/delete-a-task)
 * [Get a user by name](tutorials/get-a-user-by-name)
 * [Get tasks by title](tutorials/get-tasks-by-title)
 
