@@ -50,3 +50,4 @@ The `task` resource supports these operations.
 * [Get all tasks _(coming soon)_](#resource-properties)
 * [Get task by ID _(coming soon)_](#resource-properties)
 * [Get task by user ID _(coming soon)_](#resource-properties)
+* [Get task by title](tasks-ref-topic-get-task-by-title)
