@@ -34,6 +34,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Get tasks by title](tutorials/get-tasks-by-title)
 * [Get a user by email](tutorials/get-a-user-by-email)
 * [Get a user by email](tutorials/get-user-by-email)
+* [Get tasks for a user](tutorials/get-tasks-for-a-user.md)
 
 ## API reference docs
 
