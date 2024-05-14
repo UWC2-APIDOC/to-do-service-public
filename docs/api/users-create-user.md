@@ -71,3 +71,6 @@ The following example shows the response. Note that the names should be the same
 | 500 | Internal server Error | Invalid JSON. |
 | ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
 
+## Related information
+
+* [Handling errors](https://uwc2-apidoc.github.io/to-do-service-public/api/handling-errors)
