@@ -30,6 +30,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Change the due-date of a task _(coming soon)_](#tutorials)
 * [Delete a task _(coming soon)_](#tutorials)
 * [Get a user by name](tutorials/get-a-user-by-name)
+* [Get tasks by title](tutorials/get-tasks-by-title)
 
 ## API reference docs
 
@@ -45,3 +46,4 @@ generally `http://localhost:3000`.
 * [user resource](api/user)
 * [task resource](api/task)
 * [Handling errors](api/handling-errors)
+* [Get tasks by title](tasks-get-tasks-by-title)
