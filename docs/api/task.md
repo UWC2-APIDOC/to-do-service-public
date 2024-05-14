@@ -9,7 +9,6 @@ Base endpoint
 {server_url}/tasks
 ```
 
-
 Contains information about tasks stored for the users of the service.
 
 **This is a new line of text added for assignment 3!**
@@ -42,7 +41,11 @@ Sample `task` resource
 | `warning` | Number | The number of minutes relative to the `due_date` to alert the user of the task. This is normally a negative number to alert the user before the `due_date`.|
 | `id` | Number | The task's unique record ID |
 
-## READ
+## Operations
+
+The `task` resource supports these operations.
+
+## READ (GET)
 
 * [Get all tasks _(coming soon)_](#resource-properties)
 * [Get task by ID _(coming soon)_](#resource-properties)
