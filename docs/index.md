@@ -25,9 +25,11 @@ First, do this tutorial to set up your development system for these tutorials. Y
 After your system is ready, these tutorials show you how to perform common tasks.
 
 * [Enroll a new user](tutorials/enroll-a-new-user)
+* [Update a specific user's information](tutorials/update-user-info)
 * [Add a new task](tutorials/add-a-new-task)
 * [Change the due-date of a task _(coming soon)_](#tutorials)
 * [Delete a task _(coming soon)_](#tutorials)
+* [Get a user by name](tutorials/get-a-user-by-name)
 * [Get tasks for a user](tutorials/get-tasks-for-a-user)
 
 ## API reference docs
