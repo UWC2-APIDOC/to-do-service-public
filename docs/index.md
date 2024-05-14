@@ -28,7 +28,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Update a specific user's information](tutorials/update-user-info)
 * [Add a new task](tutorials/add-a-new-task)
 * [Change the due-date of a task _(coming soon)_](#tutorials)
-* [Delete a task _(coming soon)_](#tutorials)
+* [Delete a task](tutorials/delete-a-task)
 * [Get a user by name](tutorials/get-a-user-by-name)
 
 ## API reference docs
