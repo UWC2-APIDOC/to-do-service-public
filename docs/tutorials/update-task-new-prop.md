@@ -19,6 +19,7 @@ If your local service is not running, start it.
     json-server -w to-do-db-source.json
     ```
 
+
 ## About the task
 
 There's two parts to this task.
@@ -65,7 +66,7 @@ Assuming you know the task {id}, proceed as follows:
 
 1. On your desktop, open the Postman app.
 1. To create a new request, click **New** > **HTTP**. Give the request a title.
-1. Specify these values in the Request window:
+1. Specify these values in the right-frame window:
 
     | UI Element | Values | Required | Notes |
     | -------------- | ------ | ------------ |------------ |
@@ -74,7 +75,7 @@ Assuming you know the task {id}, proceed as follows:
     |**Headers** | `Content-Type` | Optional | The format of the data to be posted. Default value is application/json. |
     |**Request body** | The selected task details. | Required  | You can copy/paste the JSON response body returned in your `GET` call. |
 
-1. To add a new property, for example, *Priority*, insert the content on a new line in the request body like this.
+1. To add a new property, for example, *priority*, insert the content on a new line in the request body like this.
 
     ```js
         [
