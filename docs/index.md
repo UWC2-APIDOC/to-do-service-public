@@ -24,7 +24,7 @@ Learn how to do common tasks within the To-Do service.
 
 First, do this tutorial to set up your development system for these tutorials. You only have to do this one time per development system.
 
-* [Before you start a tutorial](tutorials/before-you-start-a-tutorial.md)
+* [Before you start a tutorial](tutorials/before-you-start-a-tutorial)
 
 After your system is ready, these tutorials show you how to perform common tasks.
 
@@ -41,6 +41,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Get a user by email](tutorials/get-a-user-by-email)
 * [Get a user by email](tutorials/get-user-by-email)
 * [Get tasks for a user](tutorials/get-tasks-for-a-user.md)
+* [Find tasks by user ID](tutorials/find-tasks-by-user-id)
 * [Update a task](tutorials/update-a-task.md)
 * [Update a task description](tutorials/update-task-description.md)
 * [Update a user property)](tutorials/update-user-property)
@@ -62,6 +63,7 @@ generally `http://localhost:3000`.
 * [user resource](api/user)
 * [task resource](api/task)
 * [Handling errors](api/handling-errors)
+* [Properties cheat sheet for successful requests](api/cs-for-successful-requests) 
 * [Get tasks by title](tasks-get-tasks-by-title)
 * [Get tasks by property](/docs/api/get-task-ref.md)
 * [Delete a task by ID](api/tasks-delete-by-id)
