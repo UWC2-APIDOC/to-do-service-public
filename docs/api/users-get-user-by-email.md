@@ -4,20 +4,20 @@ layout: page
 
 # Get user by Email
 
-Returns an array of  [`user`](user) objects that contains only the user specified by the `email` parameter, if it exists.
+Returns an array of  [`user`](user) objects that contains only the user specified by the `email` query parameter, if it exists.
 
 ## URL
 
 ```shell
 
-{server_url}/users/{email}
+{server_url}/users/?email=<email_address_to_find>
 ```
 
-## Params
+## Query Params
 
 | Parameter name | Type | Description |
 | -------------- | ------ | ------------ |
-| `email` | string | The record Email of the user to return |
+| `email` | string | The email address of the user to return |
 
 ## Request headers
 
