@@ -27,6 +27,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Enroll a new user](tutorials/enroll-a-new-user)
 * [Update a specific user's information](tutorials/update-user-info)
 * [Add a new task](tutorials/add-a-new-task)
+* [Add a new property to an existing task](tutorials/update-task-new-prop)
 * [Change the due-date of a task _(coming soon)_](#tutorials)
 * [Delete a task _(coming soon)_](#tutorials)
 * [Get a user by name](tutorials/get-a-user-by-name)
