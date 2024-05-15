@@ -48,6 +48,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Update a user's email](tutorials/update-user-email)
 * [Searching for users](search-for-a-user.md)
 * [How to update a user's name](./tutorials/update_a_users_name.md)
+* [Get tasks by category](tutorials/get-tasks-by-category.md)
 
 ## API reference docs
 
@@ -68,3 +69,4 @@ generally `http://localhost:3000`.
 * [Get tasks by title](tasks-get-tasks-by-title)
 * [Get tasks by property](/docs/api/get-task-ref.md)
 * [Delete a task by ID](api/tasks-delete-by-id)
+* [task category resource](api/tasks-category)
