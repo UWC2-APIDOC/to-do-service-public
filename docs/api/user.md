@@ -34,8 +34,20 @@ Sample `user` resource
 | `email` | string | The user's email address |
 | `id` | number | The user's unique record ID |
 
-## READ
+## Operations
+
+The `user` resource supports these operations.
+
+### READ (GET)
 
 * [Get all users](users-get-all-users)
 * [Get users by ID](users-get-user-by-id)
+* [Get users by Email](users-get-user-by-email)
+
+### CREATE (POST)
+
 * [Create user](users-create-user)
+
+### UPDATE (PUT/PATCH)
+
+* [Update user by ID](users-update-by-id)
