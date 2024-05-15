@@ -11,7 +11,10 @@ Expect this preparation to take about 20 minutes to complete.
 
 ## Preparing for the tutorials
 
-To complete the tutorials in this section, you need the following:
+The following instructions describe how to prepare for running the tutorials on Windows.
+For information about how to prepare MacOS for the tutorials, visit the [MacOS installation guide](macos-installation).
+
+### To complete the tutorials in this section, you need the following:
 
 * A [GitHub account](https://github.com)
 * A development system (PC, Mac, or Linux) running a current or
@@ -20,7 +23,7 @@ long-term support (LTS version of the operating system).
     * [Git](https://docs.github.com/en/get-started/quickstart/set-up-git) (for the command line)
     * [GitHub Desktop](https://desktop.github.com) (optional)
     * A fork of the [To-Do-Service repo](https://github.com/UWC2-APIDOC/to-do-service)
-    * A current/LTS version of `node.js`
+    * A current/LTS version of [node.js](https://nodejs.org/en/)
     * A current version of [json-server](https://www.npmjs.com/package/json-server)
     * A current copy of the database file. You can get this by syncing your fork.
     * **TIP**: If you're using a fork of the repo, create a working branch in which to do your tutorials. Create a new branch for each tutorial to prevent a mistake in one from affecting your work in another.
@@ -28,7 +31,7 @@ long-term support (LTS version of the operating system).
 
 ## Test your development system
 
-To test your development system:.
+To test your development system, follow these steps:
 
 1. Create and checkout a test branch of your fork of the To-Do-service repo. Your `GitHub repo workspace` is the directory that contains your fork of the `to-do-service` repo.
 

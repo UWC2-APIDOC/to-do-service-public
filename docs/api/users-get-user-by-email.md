@@ -1,20 +1,23 @@
 ---
 layout: page
 ---
-# Get all users
 
-Returns an array of [`user`](user) objects that contains all users that have registered with the service.
+# Get user by Email
+
+Returns an array of  [`user`](user) objects that contains only the user specified by the `email` query parameter, if it exists.
 
 ## URL
 
 ```shell
 
-{server_url}/users
+{server_url}/users/?email=<email_address_to_find>
 ```
 
-## Params
+## Query Params
 
-None
+| Parameter name | Type | Description |
+| -------------- | ------ | ------------ |
+| `email` | string | The email address of the user to return |
 
 ## Request headers
 
@@ -33,14 +36,7 @@ None
         "first_name": "Ferdinand",
         "email": "f.smith@example.com",
         "id": 1
-    },
-    {
-        "last_name": "Jones",
-        "first_name": "Jill",
-        "email": "j.jones@example.com",
-        "id": 2
     }
-    ...
 ]
 ```
 
@@ -49,4 +45,5 @@ None
 | Status value | Return status | Description |
 | ------------- | ----------- | ----------- |
 | 200 | Success | Requested data returned successfully |
+| 404 | Error | Specified user record not found |
 |  ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
