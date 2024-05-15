@@ -36,6 +36,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Get a user by email](tutorials/get-user-by-email)
 * [Get tasks for a user](tutorials/get-tasks-for-a-user.md)
 * [Update a task](tutorials/update-a-task.md)
+* [Update a task description](tutorials/update-task-description.md)
 
 ## API reference docs
 
