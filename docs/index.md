@@ -62,6 +62,7 @@ generally `http://localhost:3000`.
 
 * [user resource](api/user)
 * [task resource](api/task)
+* [Endpoint index](api/endpoint-index)
 * [Handling errors](api/handling-errors)
 * [Properties cheat sheet for successful requests](api/cs-for-successful-requests) 
 * [Get tasks by title](tasks-get-tasks-by-title)
