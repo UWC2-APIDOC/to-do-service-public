@@ -42,6 +42,7 @@ The `user` resource supports these operations.
 * [Get all users](users-get-all-users)
 * [Get users by ID](users-get-user-by-id)
 * [Get users by Email](users-get-user-by-email)
+* [Get users by first names](users-get-users-first-names)
 
 ### CREATE (POST)
 
