@@ -16,7 +16,7 @@ Returns an array of  [`task`](task) objects that contain only the tasks specifie
 **Example:**
 
 `http://localhost:3000/tasks?title=Piano recital`
-   
+
 **Note:** Title values are case sensitive.
 
 ## Params
