@@ -27,6 +27,7 @@ subscribers can post tasks and receive reminders of those tasks.
 * [Overview by Joey](overview-joey.md)
 * [Genieve's overview](overview-genieve.md)
 * [Overview by Nikita](./tutorials/nikita-overview.md)
+* [S. Rose overview topic](api/SRose%20To-Do%20service%20API%20overview.md)
 
 ## Quickstart
 
