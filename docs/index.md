@@ -10,9 +10,13 @@ imaginary service.
 The To-Do service provides a cloud-hosted task list through which
 subscribers can post tasks and receive reminders of those tasks.
 
+## Alternate overviews
+
+* Add a link to a better overview topic here (first one gets to remove/replace this line)
+
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
+[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use! (first one gets to remove/replace this line)
 
 ## Tutorials
 
