@@ -12,7 +12,7 @@ subscribers can post tasks and receive reminders of those tasks.
 
 ## Alternate overviews
 
-* Add a link to a better overview topic here (first one gets to remove/replace this line)
+* [deullmer's overview](overview-daniel.md)
 
 ## Quickstart
 
