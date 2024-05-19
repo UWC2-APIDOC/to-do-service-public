@@ -19,6 +19,7 @@ subscribers can post tasks and receive reminders of those tasks.
 ## Quickstart
 
 [Quickstart (SineadC)](api/quickstart_sinead.md)
+[Get Started](api/get-started.md) with the To-Do service to see how easy it is to use!
 
 ## Tutorials
 
