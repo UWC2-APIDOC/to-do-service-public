@@ -10,7 +10,7 @@ This tutorial takes about 15 minutes to complete.
 
 ## Before you begin
 
-Before starting this tutorial, install Postman and json-server. Then, sync the To-Do service to your  GitHub repository so that you can clone it to your desktop. For a complete set of steps, see [Before you start a tutorial](/docs/tutorials/before-you-start-a-tutorial.md). 
+Before starting this tutorial, install Postman and json-server. Then, sync the To-Do service to your  GitHub repository so that you can clone it to your desktop. For a complete set of steps, see [Before you start a tutorial](before-you-start-a-tutorial.md).
 
 > ⚠️ The steps to run json-server are designed for Mac users, but you can easily adapt them to Windows or Linux. For example, on Windows, replace `json-server.sh` with `json-server.bat` from the source repository.
 
@@ -85,5 +85,5 @@ Now that you have verified this API workflow in Postman, you're ready to integra
 
 ## Related Topics
 
-* [Task resource](docs/api/task.md)
-* [Handing errors](docs/api/handling-errors.md)
+* [Task resource](../api/task.md)
+* [Handing errors](../api/handling-errors.md)

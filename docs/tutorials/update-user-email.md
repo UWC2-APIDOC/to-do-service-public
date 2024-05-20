@@ -14,7 +14,7 @@ Make sure you've completed the [Before you start a tutorial](before-you-start-a-
 
 ## Update a user's email
 
-You can update an existing user's email in the To-Do service. To do so, `PUT` an [`email`](../api/user/id/email) resource containing the user's details.
+You can update an existing user's email in the To-Do service. To do so, `PUT` an [`email`]() resource containing the user's details.
 
 To update a user's email:
 

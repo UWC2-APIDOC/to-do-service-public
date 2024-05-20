@@ -8,7 +8,7 @@ In this tutorial, you will learn how to update a user's name.
 
 ## Prerequisites
 
-Before starting, make sure you have completed and gone through the ["before you start a tutorial page"](docs/tutorials/before-you-start-a-tutorial.md)
+Before starting, make sure you have completed and gone through the ["before you start a tutorial page"](before-you-start-a-tutorial.md)
 
 ## Update a user's name
 

@@ -56,5 +56,4 @@ The `user` resource supports these operations.
 
 ### DELETE
 
-* [Delete users by email](users-delete-user-by-email)
 * [Delete user by ID](users-delete-user-by-id)
