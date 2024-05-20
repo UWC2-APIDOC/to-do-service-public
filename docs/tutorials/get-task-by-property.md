@@ -2,7 +2,7 @@
 Get a list of tasks that match a property.
 
 ## Before you start
-1. Set up the To-Do service on your system. See [Before you start a tutorial](/docs/tutorials/before-you-start-a-tutorial.md).
+1. Set up the To-Do service on your system. See [Before you start a tutorial](before-you-start-a-tutorial.md).
 
 2. Start the To-Do service on your local computer.
 
@@ -15,7 +15,7 @@ Get a list of tasks that match a property.
     ```
     {base_url}/tasks?{property}={value}
     ```
-    See [Task properties](//docs/api/get-task-ref.md).
+    See [Task properties](../api/get-task-ref.md).
     
     >**NOTE**: The value must be an exact match to return a valid response.
 
@@ -46,5 +46,5 @@ Get a list of tasks that match a property.
 
 ## Next steps
 
-[Add a new task](/docs/tutorials/add-a-new-task.md)
-[Delete a task](/docs/tutorials/delete-a-task.md)
+[Add a new task](add-a-new-task.md)
+[Delete a task](delete-a-task.md)

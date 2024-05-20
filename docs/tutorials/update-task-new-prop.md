@@ -98,4 +98,4 @@ To further validate the `PUT` request, run the `GET` call again. The task return
 
 ## Related information
 
-* [Handling errors](https://uwc2-apidoc.github.io/to-do-service-public/api/handling-errors)
+* [Handling errors](../api/handling-errors.md)

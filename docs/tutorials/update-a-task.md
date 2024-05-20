@@ -6,7 +6,7 @@ Learn how to update an existing `task` for a `user` of the to-do service.
 
 1. Make sure you’ve completed the [Before you start a tutorial](before-you-start-a-tutorial) topic on the development system you’ll use for the tutorial.
 
-2. Retrieve the `id` of the `task` you’d like to update. You can do this by sending a `GET` request to view all the existing tasks in the service. See [Get all tasks](coming soon) to learn more.
+2. Retrieve the `id` of the `task` you’d like to update. You can do this by sending a `GET` request to view all the existing tasks in the service.
 
 3. Ensure that your local service is running. If it’s not, start it by running the below command in your command line (replacing <your-github-workspace> with your local clone of the repository).
 
@@ -70,7 +70,7 @@ the tutorial to the properties and arguments that the language uses to make REST
 
 ## Related topics
 
-* [Add a new task](tutorials/add-a-new-task)
-* [Delete a task](tutorials/delete-a-task)
-* [Get tasks by title](tasks-get-tasks-by-title)
-* [Handling errors](api/handling-errors)
+* [Add a new task](./add-a-new-task.md)
+* [Delete a task](./delete-a-task.md)
+* [Get tasks by title](../api/tasks-get-task-by-title.md)
+* [Handling errors](../api/handling-errors.md)
