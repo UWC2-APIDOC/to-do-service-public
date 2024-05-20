@@ -11,8 +11,7 @@ Base endpoint:
 
 Contains information about the users of the service.
 
-To have a task in the service, the user must be added to
-the service first.
+To have a task in the service, the user must be added to the service first.
 
 ## Resource properties
 
@@ -43,6 +42,7 @@ The `user` resource supports these operations.
 * [Get all users](users-get-all-users)
 * [Get users by ID](users-get-user-by-id)
 * [Get users by Email](users-get-user-by-email)
+* [Get users by first names](users-get-users-first-names)
 
 ### CREATE (POST)
 
@@ -51,3 +51,10 @@ The `user` resource supports these operations.
 ### UPDATE (PUT/PATCH)
 
 * [Update user by ID](users-update-by-id)
+* [Change user email](users-change-user-email.md)
+* [Change user property](users-change-user-property)
+
+### DELETE
+
+* [Delete users by email](users-delete-user-by-email)
+* [Delete user by ID](users-delete-user-by-id)
