@@ -16,7 +16,7 @@ subscribers can post tasks and receive reminders of those tasks.
 
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use! (first one gets to remove/replace this line)
+[Quickstart (SineadC)](api/quickstart_sinead.md)
 
 ## Tutorials
 
