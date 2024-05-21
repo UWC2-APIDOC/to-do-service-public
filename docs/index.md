@@ -26,9 +26,10 @@ subscribers can post tasks and receive reminders of those tasks.
 
 ## Quickstart
 
-[Quickstart (SineadC)](api/quickstart_sinead.md)
-[Get Started](api/get-started.md) with the To-Do service to see how easy it is to use!
-[Enroll a new user](first-use-enroll-new-user-Conor-Teichroeb.md) in this quick example!
+* [Quickstart (SineadC)](api/quickstart_sinead.md)
+* [Get Started](api/get-started.md) with the To-Do service to see how easy it is to use!
+* [Enroll a new user](first-use-enroll-new-user-Conor-Teichroeb.md) in this quick example!
+* To get started with the To-Do service, [make your first API call](api/hello-world-benbristow.md).
 
 ## Tutorials
 
