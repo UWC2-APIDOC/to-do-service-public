@@ -38,7 +38,6 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Get a user by name](tutorials/get-a-user-by-name)
 * [Get tasks by title](tutorials/get-tasks-by-title.md)
 * [Get tasks by a property](tutorials/get-task-by-property.md)
-* [Get a user by email](tutorials/get-a-user-by-email)
 * [Get a user by email](tutorials/get-user-by-email)
 * [Get tasks for a user](tutorials/get-tasks-for-a-user.md)
 * [Find tasks by user ID](tutorials/find-tasks-by-user-id)

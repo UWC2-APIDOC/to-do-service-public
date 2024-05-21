@@ -72,5 +72,5 @@ the tutorial to the properties and arguments that the language uses to make REST
 
 * [Add a new task](./add-a-new-task.md)
 * [Delete a task](./delete-a-task.md)
-* [Get tasks by title](../api/tasks-get-task-by-title.md)
+* [Get tasks by title](../api/tasks-get-tasks-by-title.md)
 * [Handling errors](../api/handling-errors.md)
