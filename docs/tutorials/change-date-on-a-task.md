@@ -10,7 +10,7 @@ Make sure you have completed the [Before you start a tutorial](before-you-start-
 
 ## Find an existing task
 
-Unless you already know the task's unique ID, you must first retrieve a list of tasks. To do this, use the GET method for {base_url}/tasks. 
+Unless you already know the task's unique ID, you must first retrieve a list of tasks. To do this, use the GET method for {base_url}/tasks.
 
 View a list of all tasks
 
@@ -34,7 +34,6 @@ View a list of all tasks
 1. In the Postman app, choose **Send** to make the request.
 1. Watch for the response body, which should look similar to the text below. Make note of the `id` for the task (or tasks) you want to change.
 
-  
 ```js
 [
     {
@@ -75,13 +74,13 @@ To update the properties of an existing task resource, do the following:
     * **Headers**:
         * `Content-Type: application/json`
     * **Request body**:
-      
-    ```js
-       {
-        "task",
-        "id": "3"
-       }
-    ```
+
+        ```js
+        {
+            "task",
+            "id": "3"
+        }
+        ```
 
 1. In the Postman app, choose **Send** to make the request.
 1. Congratulations! The response body should show the updated `due_date` property for user 3, as in the output below.
